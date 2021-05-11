@@ -90,4 +90,4 @@ class SimpleLinearRegression2:
         return self.a_ * x_single + self.b_
 
     def __repr__(self):
-        return "SimpleLinearRegression1()"
+        return "SimpleLinearRegression2()"
